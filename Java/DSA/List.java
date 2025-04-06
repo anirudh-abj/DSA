@@ -175,6 +175,15 @@ public class List<T>{
 		return res;
 	}
 
+	public void sort(){
+
+	}
+
+	public void reverseList(){
+
+	}
+	
+
 	public static void main(String[] args) {
 		System.out.println("---------LIST---------");
 		List<Integer> lst = new List<Integer>();

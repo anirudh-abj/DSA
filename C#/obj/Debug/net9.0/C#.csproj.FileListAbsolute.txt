@@ -1,0 +1,15 @@
+/home/abj/Desktop/DSA/C#/obj/Debug/net9.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/abj/Desktop/DSA/C#/obj/Debug/net9.0/C#.AssemblyInfoInputs.cache
+/home/abj/Desktop/DSA/C#/obj/Debug/net9.0/C#.AssemblyInfo.cs
+/home/abj/Desktop/DSA/C#/obj/Debug/net9.0/C#.csproj.CoreCompileInputs.cache
+/home/abj/Desktop/DSA/C#/obj/Debug/net9.0/C#.sourcelink.json
+/home/abj/Desktop/DSA/C#/bin/Debug/net9.0/C#
+/home/abj/Desktop/DSA/C#/bin/Debug/net9.0/C#.deps.json
+/home/abj/Desktop/DSA/C#/bin/Debug/net9.0/C#.runtimeconfig.json
+/home/abj/Desktop/DSA/C#/bin/Debug/net9.0/C#.dll
+/home/abj/Desktop/DSA/C#/bin/Debug/net9.0/C#.pdb
+/home/abj/Desktop/DSA/C#/obj/Debug/net9.0/C#.dll
+/home/abj/Desktop/DSA/C#/obj/Debug/net9.0/refint/C#.dll
+/home/abj/Desktop/DSA/C#/obj/Debug/net9.0/C#.pdb
+/home/abj/Desktop/DSA/C#/obj/Debug/net9.0/C#.genruntimeconfig.cache
+/home/abj/Desktop/DSA/C#/obj/Debug/net9.0/ref/C#.dll

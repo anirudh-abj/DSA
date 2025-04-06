@@ -1,4 +1,5 @@
 #include<iostream>
+#include "stdio.h"
 
 template <typename T>
 class List{
@@ -50,10 +51,10 @@ class List{
 };
 
 int main(){
-  List<int> lst[] = new List<int>();
+  List<int>* lst = new List<int>();
   for(int i = 0; i < 5; i++){
-    lst.append(i);
+    (*lst).append(i);
   }
-  lst.display();
+  (*lst).display();
 }
 
